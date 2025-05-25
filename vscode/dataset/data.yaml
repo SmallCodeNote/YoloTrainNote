@@ -1,0 +1,6 @@
+train: images/train
+val: images/val
+#test: images/test    # Option
+
+nc: 5  # Class Number
+names: ["RedCircle", "GreenCircle", "RedSquare", "RedRectangle", "BlueRectangle"]  # ClassNames
